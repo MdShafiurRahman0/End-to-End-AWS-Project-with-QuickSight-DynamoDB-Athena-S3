@@ -1,6 +1,4 @@
-![capture_250315_133242](https://github.com/user-attachments/assets/a3c671b6-d950-473c-a2bd-021a66f7016d)# End-to-End-AWS-Project-with-QuickSight-DynamoDB-Athena-S3
-
-Build an End-to-End AWS Project with QuickSight, DynamoDB, Athena, S3, Hands-on Tutorial &amp; Documentation
+# Build an End-to-End AWS Project with QuickSight, DynamoDB, Athena, S3, Hands-on Tutorial &amp; Documentation
 
 
 # Arcitecture Overview
