@@ -1,4 +1,4 @@
-# End-to-End-AWS-Project-with-QuickSight-DynamoDB-Athena-S3
+![capture_250315_133242](https://github.com/user-attachments/assets/a3c671b6-d950-473c-a2bd-021a66f7016d)# End-to-End-AWS-Project-with-QuickSight-DynamoDB-Athena-S3
 
 Build an End-to-End AWS Project with QuickSight, DynamoDB, Athena, S3, Hands-on Tutorial &amp; Documentation
 
@@ -200,28 +200,103 @@ Build an End-to-End AWS Project with QuickSight, DynamoDB, Athena, S3, Hands-on 
 ![capture_250315_130344](https://github.com/user-attachments/assets/3e64203d-b05b-45f9-919f-dff9f3525892)
 
 
-
-
-
 ![capture_250315_130421](https://github.com/user-attachments/assets/35d1107f-053d-4eb9-9d2d-bf57b7e7935c)
 
 
 
+# Input any SQL Query :  
+
+![capture_250315_132856](https://github.com/user-attachments/assets/295a16a0-6e01-4ca9-a70c-3d46c4fb3594)
+
+
+# Output : 
+
+![capture_250315_132911](https://github.com/user-attachments/assets/66a257b7-3a26-48e2-9cb3-6a8d4288ad1c)
+
+
+# What we have built this far : 
+
+![capture_250315_133004](https://github.com/user-attachments/assets/62779ecf-a1e4-4fcd-acb1-5f71c355774f)
+
+
+# Now we will Set Up Quicksight for visualizing the data : 
+
+![capture_250315_133012](https://github.com/user-attachments/assets/406819e2-f43b-493b-90e8-6aee2ecf459c)
 
 
 
+# It will invoke the fucntion and the data from Lambda Connecter 
+
+![capture_250315_133039](https://github.com/user-attachments/assets/4d1ced5b-8705-4786-8bb3-d1fe530ed5ce)
+
+
+# Behing Sences it will work like this: 
+
+![capture_250315_133048](https://github.com/user-attachments/assets/a8842152-81e4-4cfc-a13a-ba215a773b3e)
+
+
+# Go to IAM : 
+
+# Search :    
+
+![capture_250315_133242](https://github.com/user-attachments/assets/1260dfc7-d99e-4450-a279-7979e70ac26e).
+
+
+# Set Up IAM role for this Project : 
+
+# Add Permission : Create inline Policy 
+
+![capture_250315_133319](https://github.com/user-attachments/assets/6c7c34e7-4485-41b2-88f0-a991272662ba)
+
+# Go to Github open the file :
+
+
+![capture_250315_154901](https://github.com/user-attachments/assets/4881a5b5-b97d-4a7a-b2a2-6ac8b894cea4)
+
+
+ 
+![capture_250315_155011](https://github.com/user-attachments/assets/0b94880e-2db4-4a55-a526-eddc7f9a18c9)
 
 
 
+# Notice we have to update arn from lambda function : 
+
+
+![capture_250315_133619](https://github.com/user-attachments/assets/95046f15-0acd-4b46-b6ca-6b17c0c9132e)
+
+
+# Go to Lambda & Select the function & Copy the arn & Paste it in the JSON file : 
+
+![capture_250315_141713](https://github.com/user-attachments/assets/495d48d0-9690-49f1-ac77-4a502780b85a)
+
+
+![capture_250315_141739](https://github.com/user-attachments/assets/5a129d43-6136-46a3-8fba-e43febd5008e)
+
+
+![capture_250315_141906](https://github.com/user-attachments/assets/b0eee914-c17e-41a9-9749-51c21fbe1516)
 
 
 
+# Review and Create : Name :  quicksight-invoke-lambda
+
+![capture_250315_142032](https://github.com/user-attachments/assets/14d4e4bb-15f0-4b6e-b009-bdadeb6ba31d)
 
 
+![capture_250315_142048](https://github.com/user-attachments/assets/d8459b92-3f6a-463f-a948-5e9a35a8d2d4)
 
 
+# Again Repeat the process: 
+# Go to Github open the file :
+# Paste the JSON  Policy  and save : 
+
+![capture_250315_155810](https://github.com/user-attachments/assets/a58feff9-3864-4abd-86a0-399621bffb32)
+
+![capture_250315_142822](https://github.com/user-attachments/assets/2ba20384-9aa1-475e-b8d8-b77948e78d27)
 
 
+# Finally : 
 
+
+![capture_250315_143109](https://github.com/user-attachments/assets/99155c8f-be3d-4238-840f-a01e242474a3)
 
 
