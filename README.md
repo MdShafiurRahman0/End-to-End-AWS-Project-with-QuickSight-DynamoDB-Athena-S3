@@ -101,3 +101,46 @@ Build an End-to-End AWS Project with QuickSight, DynamoDB, Athena, S3, Hands-on 
 
 ![capture_250315_122513](https://github.com/user-attachments/assets/8f18e32a-419b-4f29-9718-37066211996d)
 
+
+# But we Can't : 
+
+![capture_250315_150830](https://github.com/user-attachments/assets/bddd8294-5c64-40b4-a250-c697e45b16bd)
+
+
+
+# Repeat the same process and Create the Items in Tabels iin JSON format : 
+
+![capture_250315_123220](https://github.com/user-attachments/assets/83cf5d76-e0b8-450d-ba45-eceba7011856)
+
+
+# We have successfully Created DynamoDB for our project : 
+
+
+![capture_250315_123245](https://github.com/user-attachments/assets/3230cef7-8037-42dc-bdcb-386fed108d58)
+
+
+# if you see the arcitecture : 
+
+![capture_250315_123411](https://github.com/user-attachments/assets/3c607150-9f43-41d2-9fc5-288631351263)
+
+
+# we cant fetch the data from DynamoDB 
+
+![capture_250315_123411](https://github.com/user-attachments/assets/fdf3923a-73ed-4b13-92cf-aaef7b394138)
+
+
+# we need a connecter for fetching the data from DynamoDB 
+
+![capture_250315_123420](https://github.com/user-attachments/assets/9361875a-7f4f-423e-868a-4fc8786ccc96)
+
+
+
+
+
+
+
+
+
+
+
+
