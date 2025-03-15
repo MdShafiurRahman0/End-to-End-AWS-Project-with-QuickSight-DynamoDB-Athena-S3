@@ -137,6 +137,87 @@ Build an End-to-End AWS Project with QuickSight, DynamoDB, Athena, S3, Hands-on 
 
 ![capture_250315_123457](https://github.com/user-attachments/assets/ce6a832e-bf24-4afc-8351-38982def7683)
 
+# Open Athena in new tab 
+
+# Choose 
+
+![capture_250315_153117](https://github.com/user-attachments/assets/e3fa5f0e-d0ec-450c-8c53-de43dac78e1d)
+
+# Choose Data Source 
+
+![capture_250315_124008](https://github.com/user-attachments/assets/5b72e8c4-d361-40ec-9300-6526b9b6225f)
+
+
+# Enter Data source Name : 
+
+
+![capture_250315_124437](https://github.com/user-attachments/assets/f1bed1fc-fdd9-4706-bfa4-d476616c298c)
+
+# Remeber to write the Name : 
+
+![capture_250315_124444](https://github.com/user-attachments/assets/4def2d08-4908-4044-8c5d-20b74d32ddb2)
+
+
+# Now we have to set up S3 for our project : 
+
+
+![capture_250315_124750](https://github.com/user-attachments/assets/f4cbb455-e999-4f33-9119-88504f5c14f4)
+
+
+
+# Create the Bucket : 
+
+![capture_250315_124840](https://github.com/user-attachments/assets/c3b6338b-a97c-4ddd-b2c9-7aaebb210d1e)
+
+
+![capture_250315_125032](https://github.com/user-attachments/assets/b4bf9c16-048d-45e7-8d86-3551157f541b)
+
+
+# Now in go back to Athena and Browse s3
+
+![capture_250315_125055](https://github.com/user-attachments/assets/ab9f258d-8f37-4b73-861a-c12c8dee25ab)
+
+
+![capture_250315_125106](https://github.com/user-attachments/assets/c50f4ace-0a6c-4219-bec7-0ddda9616f6a)
+
+
+# Give the name Spill Loaction Name : 
+
+![capture_250315_125118](https://github.com/user-attachments/assets/c9f73109-1197-4578-b6c9-4f6120b07174)
+
+
+# Review and Create :  
+
+![capture_250315_125152](https://github.com/user-attachments/assets/206233f1-b52c-4df9-a274-79e010bd1472)
+
+
+![capture_250315_125340](https://github.com/user-attachments/assets/65bf18cd-b4e3-4bd0-9c69-28f4bb80b5e9)
+
+
+# Now go to the Athena Query Editor : 
+
+
+![capture_250315_130344](https://github.com/user-attachments/assets/3e64203d-b05b-45f9-919f-dff9f3525892)
+
+
+
+
+
+![capture_250315_130421](https://github.com/user-attachments/assets/35d1107f-053d-4eb9-9d2d-bf57b7e7935c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
