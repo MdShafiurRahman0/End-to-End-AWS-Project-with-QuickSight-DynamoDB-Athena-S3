@@ -133,9 +133,9 @@ Build an End-to-End AWS Project with QuickSight, DynamoDB, Athena, S3, Hands-on 
 
 ![capture_250315_123420](https://github.com/user-attachments/assets/9361875a-7f4f-423e-868a-4fc8786ccc96)
 
+# While we are setting the Lambda Connecter there is AWS Glue is auto set behind sence
 
-
-
+![capture_250315_123457](https://github.com/user-attachments/assets/ce6a832e-bf24-4afc-8351-38982def7683)
 
 
 
