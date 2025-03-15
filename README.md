@@ -300,3 +300,84 @@ Build an End-to-End AWS Project with QuickSight, DynamoDB, Athena, S3, Hands-on 
 ![capture_250315_143109](https://github.com/user-attachments/assets/99155c8f-be3d-4238-840f-a01e242474a3)
 
 
+
+# Now go to QuickSight & Select Dataset & Select Athena : 
+
+
+![capture_250315_143202](https://github.com/user-attachments/assets/0ec3d344-539e-415b-ae39-c0f89ca8bb3a)
+
+
+# Give Name & Choose the table we have created : 
+
+![capture_250315_143304](https://github.com/user-attachments/assets/85f8d28e-afed-4ac4-b867-40a36ae6a971)
+
+
+![capture_250315_143350](https://github.com/user-attachments/assets/78945e57-ad81-462b-a407-724f8d293838)
+
+
+
+# Must Select : 
+
+![capture_250315_143450](https://github.com/user-attachments/assets/b179d746-e5ec-46ae-b960-8b2da45c3883)
+
+
+
+# Now Select Visuals and Input the Tables & see the Magic : 
+
+![capture_250315_143642](https://github.com/user-attachments/assets/e1adc6b3-5826-456b-a0fd-9c6e69f29754)
+
+
+![capture_250315_143528](https://github.com/user-attachments/assets/f30dc629-56ef-4847-aa8d-e98cb95512ef)
+
+
+![capture_250315_143732](https://github.com/user-attachments/assets/3734e0d6-1d72-4699-b79d-c878615e3cd6)
+
+
+![capture_250315_143740](https://github.com/user-attachments/assets/9e6f1faa-dda5-4b69-823b-6b3b2e7e7d10)
+
+
+![png](https://github.com/user-attachments/assets/8491dc1a-e189-499a-ab41-0b9cec31dfdb)
+
+
+![capture_250315_144235](https://github.com/user-attachments/assets/bcb0fc08-688f-4d53-be6f-d960c5864b6b)
+
+
+![capture_250315_144430](https://github.com/user-attachments/assets/4afd9faf-e8cc-4804-b9cb-3a0a5ffa90f4)
+
+
+# If anyone Update the Table that will automatically update the data in the Quicksight  Visuals : 
+
+
+![capture_250315_144552](https://github.com/user-attachments/assets/f80d2724-d0c0-49c3-9e91-016e95ab5f80)
+
+
+![capture_250315_144727](https://github.com/user-attachments/assets/8d5f9013-75cc-43b4-8c47-17ea82d2a0bd)
+
+
+![capture_250315_145132](https://github.com/user-attachments/assets/3d293adc-4479-46db-bf53-16da7a14d253)
+
+# You can the update TaskID 11 in the Horizontal Bar Chart : 
+
+![capture_250315_145201](https://github.com/user-attachments/assets/de276355-1770-4fba-a0d2-2f40eb88e0c9)
+
+
+![capture_250315_145208](https://github.com/user-attachments/assets/427f7b1b-9a04-43be-bc01-af33ba41f121)
+
+
+![capture_250315_145254](https://github.com/user-attachments/assets/27529b95-a7c1-405a-9fc3-fc2c93da912a)
+
+
+# What we have Built : 
+
+![capture_250315_145326](https://github.com/user-attachments/assets/6aede4d8-d4b2-4c5b-b889-1b3bf117aac3)
+
+
+# Finally 
+
+
+![capture_250315_145350](https://github.com/user-attachments/assets/a68ddbcc-d239-4d6e-a734-bfcb2e45b814)
+
+
+
+
+
